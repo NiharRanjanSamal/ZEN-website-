@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" fill="none" aria-hidden="true">
+  <defs>
+    <linearGradient id="storyG1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#669bbc" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#2a516b" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="storyG2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e9b949" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#e07a3f" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <circle cx="720" cy="160" r="200" fill="url(#storyG1)" opacity="0.55"/>
+  <circle cx="820" cy="320" r="130" fill="#e07a3f" opacity="0.35"/>
+  <circle cx="640" cy="380" r="110" fill="#e9b949" opacity="0.42"/>
+  <path d="M480 80 Q780 40 920 280 Q860 520 620 560 Q380 480 480 80Z" fill="#669bbc" opacity="0.28"/>
+  <circle cx="720" cy="160" r="200" stroke="#2a516b" stroke-width="4" opacity="0.65"/>
+  <circle cx="820" cy="320" r="130" stroke="#c1121f" stroke-width="3" opacity="0.5"/>
+  <path d="M40 520 Q260 380 420 520 T720 620" stroke="#e9b949" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+  <path d="M120 120 Q320 280 180 440" stroke="#669bbc" stroke-width="4" stroke-linecap="round" opacity="0.6"/>
+  <circle cx="200" cy="580" r="70" fill="#2a516b" opacity="0.2"/>
+  <circle cx="200" cy="580" r="70" stroke="#e07a3f" stroke-width="3" opacity="0.7"/>
+</svg>

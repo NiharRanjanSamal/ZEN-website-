@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#f3ebe0"/>
+  <path d="M0 56 C50 20 150 92 200 56" fill="none" stroke="#669bbc" stroke-width="1.75" opacity="0.22"/>
+  <path d="M0 128 C50 164 150 92 200 128" fill="none" stroke="#e9b949" stroke-width="1.5" opacity="0.2"/>
+  <path d="M0 172 C50 140 150 200 200 172" fill="none" stroke="#e07a3f" stroke-width="1.35" opacity="0.17"/>
+  <circle cx="25" cy="25" r="2.5" fill="#2a516b" opacity="0.22"/>
+  <circle cx="75" cy="25" r="2.5" fill="#2a516b" opacity="0.22"/>
+  <circle cx="125" cy="25" r="2.5" fill="#2a516b" opacity="0.22"/>
+  <circle cx="175" cy="25" r="2.5" fill="#2a516b" opacity="0.22"/>
+  <circle cx="25" cy="175" r="2.5" fill="#2a516b" opacity="0.22"/>
+  <circle cx="75" cy="175" r="2.5" fill="#2a516b" opacity="0.22"/>
+  <circle cx="125" cy="175" r="2.5" fill="#2a516b" opacity="0.22"/>
+  <circle cx="175" cy="175" r="2.5" fill="#2a516b" opacity="0.22"/>
+  <circle cx="100" cy="100" r="18" fill="none" stroke="#c1121f" stroke-width="1.25" stroke-dasharray="5 7" opacity="0.18"/>
+</svg>

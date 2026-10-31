@@ -1,0 +1,32 @@
+{
+  "name": "zenuino-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/free-port.mjs 3000 && next dev -p 3000",
+    "dev:turbo": "node scripts/free-port.mjs 3000 && next dev -p 3000 --turbopack",
+    "dev:clean": "node scripts/free-port.mjs 3000 && node scripts/clean-next-cache.mjs && next dev -p 3000",
+    "build": "next build",
+    "build:clean": "node scripts/clean-next-cache.mjs && next build",
+    "clean:next": "node scripts/clean-next-cache.mjs",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "locomotive-scroll": "^5.0.1",
+    "next": "^15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^15.2.4",
+    "sharp": "^0.35.3",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}

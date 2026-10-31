@@ -42,7 +42,7 @@ export function LocomotiveScrollProvider({ children }: { children: React.ReactNo
           orientation: "vertical",
           gestureOrientation: "vertical",
           smoothWheel: true,
-          smoothTouch: false,
+          syncTouch: false,
           wheelMultiplier: 0.9,
           touchMultiplier: 1.5,
         },

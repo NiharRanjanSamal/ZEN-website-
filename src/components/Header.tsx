@@ -9,7 +9,6 @@ import { useLocale } from "@/components/LocaleProvider";
 import { ServicesMegaMenu } from "@/components/ServicesMegaMenu";
 import { navItems } from "@/lib/i18n/messages";
 import { site } from "@/lib/content";
-import { getLocomotiveScroll } from "@/lib/locomotiveScroll";
 
 const primaryNav = navItems.filter((item) => item.href !== "/contact");
 
